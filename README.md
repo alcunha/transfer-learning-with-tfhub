@@ -6,6 +6,11 @@
 
 Nesse tutorial será abordado como fazer transferência de aprendizado utilizando a biblioteca Tensorflow Hub que foi construída para facilitar a reutilização de modelos pré-treinados. Também serão abordadas outras bibliotecas do ecossistema Tensorflow como o tf.data que facilita a construção de pipelines de entrada para treinamento de modelos e TensorFlow Datasets que fornece conjuntos de dados prontos para serem utilizados em experimentos.
 
+[Apresentação](https://github.com/alcunha/transfer-learning-with-tfhub/blob/master/Transferencia-de-Aprendizado-utilizando-TensorflowHub-apresentacao.pdf)
+
+[Notebook](https://github.com/alcunha/transfer-learning-with-tfhub/blob/master/Transfer-Learning-with-TensorflowHub.ipynb)
+
+
 ### Autor
 
 * **Fagner Cunha** - fagner.cunha99@gmail.com
